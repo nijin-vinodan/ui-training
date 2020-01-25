@@ -1,1 +1,6 @@
-1. Convert the Given Layout to Responsive Design at 467px and 767px.
+Convert the given web layout to fit for Tablet and Mobile at 767px and 467px respectively.
+
+Web - 2 Column Format (64% - 35%)
+Tablet - 2 Column Format (50% - 49%)
+Mobile - 1 Column Format (100%)
+
