@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.tv_wrapper{
+    width: 80%;
+    margin: 20px auto;
+}
+.left_section{
+    float: left;
+    width: 64%;
+}
+.right_section{
+    float: right;
+    width: 35%;
+}
+.clearfix {
+    clear: both;
+}
+
+
+/* ---------------------------- START : HEADER STYLES ---------------------------- */
+header {
+    padding: 10px;
+    background: #4A4A4A;
+    text-align: center;
+}
+header h1{
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+/* ---------------------------- END : HEADER STYLES ---------------------------- */
+
+
+/* ---------------------------- START : CARD STYLES ---------------------------- */
+.card{
+    margin-bottom: 20px;
+    border: 1px solid #4A4A4A;
+    background: #F6F6F6;
+    color: #000;
+}
+.card h4{
+    padding: 15px;
+    background: #4A4A4A;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.card p {
+    padding: 15px;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 20px;
+}
+/* ---------------------------- END : CARD STYLES ---------------------------- */
+
+
+/* ---------------------------- START : USER DEVICE NOT BANNER ---------------------------- */
+.user_device_notification_banner {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #f00;
+    color: #fff;
+    font-size: 12px;
+}
+/* ---------------------------- END : USER DEVICE NOT BANNER ---------------------------- */
